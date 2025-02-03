@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Qais Qadeer</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
+<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisqadeer&label=Profile%20views&color=0e75b6&style=flat" alt="qaisqadeer" /> </p>
 
@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/qaisqadeer07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="qaisqadeer07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/qaisqadeer07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qaisqadeer07" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/qaisqadeer07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="qaisqadeer07" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/qaisqadeer07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="qaisqadeer07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
