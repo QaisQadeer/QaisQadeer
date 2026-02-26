@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisqadeer&label=Profile%20views&color=0e75b6&style=flat" alt="qaisqadeer" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Redux**
+- 🌱 I’m currently learning **Spring Boot and DevOps**
 
 - 📫 How to reach me **qaisqadeer07@gmail.com**
 
